@@ -1,1 +1,2 @@
-# sorting-simulator
+# Sorting Simulator C++
+Author: PusheenNyan
